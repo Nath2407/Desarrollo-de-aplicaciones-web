@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Not a Real CMR</title>
+</head>
+<body>
+    <main>
+    <h1>Not a Real CMR </h1>
+    <ul>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Home</a></li>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Catalogo</a></li>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Inventory</a></li>
+    </ul>
+    <h2>Contacts</h2>
+    <h3>My CMR</h3>
+    <ul>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Contacts</a></li>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Orders</a></li>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Calendar</a></li>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Tasks</a></li>
+        <li><a href="https://www.salesforce.com/mx/" target="_blank">Evaluation Copies</a></li>
+    </ul>
+    <header>
+    <h4>Jack Smith</h4>
+    </header>
+    <p>
+        Adress: 1 Microsoft Way
+        City: Redmon
+        Region: Wa 
+        Country: USA 
+        Postal: 98052-8300
+        Phone: +1(425)882-8080
+        Email:<a href="https://www.salesforce.com/mx/" target="_blank">jacksmith@microsoft.xim</a>
+    </p>
+    <img src="images/edit.png" alt="">
+    <img src="images/edit.png" alt="">
+    <img src="images/edit.png" alt="">
+    <img src="images/edit.png" alt="">
+    <img src="images/edit.png" alt="">
+    <img src="images/edit.png" alt="">
+    <figcaption><i> Map for Jack Smith</i></figcaption>
+    <h4>Last Contact Viewed</h4>
+    <p>
+        <a href="https://www.salesforce.com/mx/" target="_blank">Camile Bernard</a>
+        University of Paris
+    </p>
+    </main>
+</body>
+</html>
