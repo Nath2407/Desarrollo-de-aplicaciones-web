@@ -1,0 +1,57 @@
+body{
+    background-image:url(../images/art-background4.jpg);
+    background-size: cover;
+}
+.box{
+    font-family: six Caps, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 75%;
+    width: 380px;
+    height: 100px;
+    margin: 0em 10em 8em 5.3em;
+    background-color: rgb(242, 241, 245);
+    padding: 1em;
+}
+#dos{
+    font-family: six Caps, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100%;
+    width: 520px;
+    height: 35px;
+    margin: 2em 10em 0 5em;
+    background-color: rgb(253, 252, 253);
+    padding: 1em;
+    opacity: 0.6;
+}
+#tres{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+    color: rgb(10, 10, 10);
+    width: 520px;
+    height: 100px;
+    margin: 0 10em 0 5em;
+    border-radius: 1px;
+    background-color: rgb(248, 245, 247);
+    padding: 1em;
+    opacity: 0.4;
+}
+#cuatro{
+    font-family: six Caps, Impact;
+    font-size: 100%;
+    color:white;
+    position:absolute;
+    top:350px;
+    left:100px;
+    height:40px;
+    width:450px;
+    background-color:rgb(13, 13, 14);
+    opacity: 0.6;
+}
+#cinco{
+    font-family: six Caps, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100%;
+    width: 520px;
+    height: 35px;
+    margin: 0 10em 0 5em;
+    border-radius: 1px;
+    background-color: rgb(238, 236, 237);
+    padding: 1em;
+}
